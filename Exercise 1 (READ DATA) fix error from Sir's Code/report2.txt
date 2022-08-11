@@ -1,0 +1,5 @@
+List of name with salary above 5500.00
+
+Ali, 34, 6000.0
+Siti, 35, 7000.0
+Abu, 36, 8000.0
